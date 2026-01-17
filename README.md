@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thebrijpatel
-- 👀 I’m interested in web development, data structures and gaming.
-- 🌱 I’m currently learning React and trying to master data structures
+- 👀 I’m interested in backend, DSA and gaming!
+- 🌱 I’m currently working as a backend engineer wearing multiple hats including tech lead, senior dev and devops.
 - 📫 How to reach me - email me at sadariyabrijesh@gmail.com
 
 <!---
